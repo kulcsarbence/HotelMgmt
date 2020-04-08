@@ -5,6 +5,8 @@
 #include "Customer.hpp"
 #include "Room.hpp"
 #include "Hotel.hpp"
+#include <iostream>
+
 
 int main()
 {
